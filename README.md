@@ -20,3 +20,7 @@ optional arguments:
 | -f | FILENAME   | --filename    | FILENAME |name of input file |
 | -O | OUTPATH    | --outpath |  OUTPATH |path of output file  |  
 | -o | OUTFILE    | --outfile |  OUTFILE |name of output file  |
+
+### install DNAsplot
+pip install DNAsplot
+https://pypi.org/project/DNAsplot/
