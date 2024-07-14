@@ -21,6 +21,7 @@ optional arguments:
 | -O | OUTPATH    | --outpath |  OUTPATH |path of output file  |  
 | -o | OUTFILE    | --outfile |  OUTFILE |name of output file  |
 
-### install DNAsplot
-pip install DNAsplot
+#### install DNAsplot
+pip install DNAsplot  
+
 https://pypi.org/project/DNAsplot/
