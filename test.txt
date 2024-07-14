@@ -1,0 +1,6 @@
+id	seq
+original	ATGCGTACGTT
+mutation_1	ATGCGTACATT
+mutation_2	ATGCGTACGAT
+mutation_3	ATGCGTACGTC
+mutation_4	ATGCGTACGTA
